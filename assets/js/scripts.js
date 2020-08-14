@@ -36,6 +36,9 @@ xhttp.onreadystatechange = function ()
                 else if (!(p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 0)
                 {
                     tdm.textContent = p
+                    var div = document.createElement('div');
+                    div.textContent = p
+                    console.log(div)
                 }
                 else if (!(p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 1)
                 {
