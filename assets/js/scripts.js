@@ -37,8 +37,9 @@ xhttp.onreadystatechange = function ()
                 {
                     tdm.textContent = p
                     var div = document.createElement('div');
+
                     div.textContent = p
-                    console.log(div)
+                    div.textContent = "mimmo"
                 }
                 else if (!(p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 1)
                 {
