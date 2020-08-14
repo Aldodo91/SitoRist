@@ -63,6 +63,6 @@ xhttp.onreadystatechange = function ()
 
     }
 };
-xhttp.open("GET", "./test.txt", false);
+xhttp.open("GET", "./test.txt", true);
 xhttp.send();
 console.log('mandato')
