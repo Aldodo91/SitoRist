@@ -40,6 +40,7 @@ xhttp.onreadystatechange = function ()
 
                     div.textContent = p
                     div.textContent = "mimmo"
+                    console.log(div)
                 }
                 else if (!(p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 1)
                 {
