@@ -15,7 +15,6 @@ xhttp.onreadystatechange = function ()
             var tdm = document.createElement('td')
             var tdp = document.createElement('td')
 
-
             row.split('€').map((p, i) =>
             {
                 if ((p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 0)
@@ -35,6 +34,7 @@ xhttp.onreadystatechange = function ()
                 }
                 else if (!(p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 0)
                 {
+
                     tdm.textContent = p
                     var div = document.createElement('div');
 
@@ -71,3 +71,9 @@ xhttp.onreadystatechange = function ()
 xhttp.open("GET", "./assets/js/test.txt", true);
 xhttp.send();
 console.log('mandato')
+
+
+function googleTranslateElementInit()
+{
+    new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+}
