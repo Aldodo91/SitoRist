@@ -68,7 +68,7 @@ xhttp.onreadystatechange = function ()
 
     }
 };
-xhttp.open("GET", ".menu.txt", true);
+xhttp.open("GET", "./menu.txt", true);
 xhttp.send();
 console.log('mandato')
 
