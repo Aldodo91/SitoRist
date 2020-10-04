@@ -19,7 +19,7 @@ xhttp.onreadystatechange = function ()
 
             row.split('€').map((p, i) =>
             {
-                if ((p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANTIPASTI") && i == 0)
+                if ((p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANTIPASTI"))
                 {
                     var trh = document.createElement('tr')
                     var thh1 = document.createElement('th')
@@ -36,24 +36,19 @@ xhttp.onreadystatechange = function ()
                 }
                 else if (!(p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANtiPASTI") && i == 0)
                 {
-
+                    // voce di menu
                     tdm.textContent = p
-                    console.log(p);
                 }
                 else if (!(p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANtiPASTI") && i == 1)
                 {
+                    // voce di costo 
                     tdp.textContent = `€ ${p}`
                 }
-                console.log(p);
                 if (tdm != "")
                 {
                     tr.appendChild(tdm)
                     tr.appendChild(tdp)
                     tbody.appendChild(tr)
-                }
-                else
-                {
-                    console.log('tdm e vuoto')
                 }
 
             })
