@@ -15,9 +15,11 @@ xhttp.onreadystatechange = function ()
             var tdm = document.createElement('td')
             var tdp = document.createElement('td')
 
+            console.log(row);
+
             row.split('€').map((p, i) =>
             {
-                if ((p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANtiPASTI") && i == 0)
+                if ((p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANTIPASTI") && i == 0)
                 {
                     var trh = document.createElement('tr')
                     var thh1 = document.createElement('th')
@@ -36,11 +38,7 @@ xhttp.onreadystatechange = function ()
                 {
 
                     tdm.textContent = p
-                    var div = document.createElement('div');
-
-                    div.textContent = p
-                    div.textContent = "mimmo"
-                    console.log(div)
+                    console.log(p);
                 }
                 else if (!(p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANtiPASTI") && i == 1)
                 {
