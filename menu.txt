@@ -17,5 +17,5 @@ Misto di carne alla brace  €10
 Frittura di pesce mista   €10
 Pescato del giorno  €10
 PIZZE
-Pizze a scelta  €
-Specialità del pizzaiolo  €
+Pizze a scelta  €1
+Specialità del pizzaiolo  €1
