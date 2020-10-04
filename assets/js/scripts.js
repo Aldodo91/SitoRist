@@ -17,7 +17,7 @@ xhttp.onreadystatechange = function ()
 
             row.split('€').map((p, i) =>
             {
-                if ((p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 0)
+                if ((p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANtiPASTI") && i == 0)
                 {
                     var trh = document.createElement('tr')
                     var thh1 = document.createElement('th')
@@ -32,7 +32,7 @@ xhttp.onreadystatechange = function ()
                     tbody.appendChild(trh)
                     return
                 }
-                else if (!(p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 0)
+                else if (!(p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANtiPASTI") && i == 0)
                 {
 
                     tdm.textContent = p
@@ -42,7 +42,7 @@ xhttp.onreadystatechange = function ()
                     div.textContent = "mimmo"
                     console.log(div)
                 }
-                else if (!(p == "PRIMI" || p == "SECONDI" || p == "CONTORNI") && i == 1)
+                else if (!(p == "PRIMI" || p == "SECONDI" || p == "PIZZE" || p == "ANtiPASTI") && i == 1)
                 {
                     tdp.textContent = `€ ${p}`
                 }
