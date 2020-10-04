@@ -4046,11 +4046,13 @@ input, select, textarea {
 
 .lineogg {
     color: #ffffff;
-    background: #4FC3A1;
+	background: #4FC3A1;
+	padding: 9px;
 }
 .linepre{
     color: #ffffff;
-    background: #78b0e7;
+	background: #78b0e7;
+	padding: 9px;
 }
 
 .en{
