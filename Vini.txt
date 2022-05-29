@@ -1,0 +1,43 @@
+Vini Rossi
+Aglianico "Villa Raiano"  € 20,00
+Amarone "Sant'Antonio"  €50,00
+Barolo DOCG "Maccario"  €40,00
+Barbera DOCG "Tre Roveri"  €30,00
+Bruciato "Antinori"  €40,00
+Chianti Melini "Granaio"  €20,00
+Furore "Marisa Cuomo"  €35,00
+Gragnano "Otto uve Martuciello"  €20,00
+Negroamaro Salento "Vespa"  €20,00
+Per'e palumm "Casa D'Ambra"  €20,00
+Primitivo Salento Il Bruno "Vespa"  €18,00
+Primitivo di Manduria "Vespa"  €18,00
+Primitivo di Manduria "Elegia"  €35,00
+Taurasi "Amarano"  €50,00
+Terregiunte "Masi-Vespa"  €120,00
+"Nireo" Abbazia di crapolla  €40,00
+Vino della Casa  €8,00
+Vino della casa (375ml) € 5,00
+
+Vini Bianchi
+Abbazia di Crapolla "Sireo" € 30,00
+Biancolella "Casa d'Ambra" € 18,00
+Fiano di Avellino "Villa Raiano" € 20,00
+Fior d'Uva "Marisa Cuomo" € 65,00
+Furore "Marisa Cuomo" € 30,00
+Gavi "Maccario" DOCG € 20,00
+Greco di Tufo Villa Raiano €20,00
+Moscato "Dolcevita" Maccario € 18,00
+Prosecco "Santa Margherita" €18,00
+Ravello "Marisa Cuomo" € 35,00
+Gewurztraminer Elena Walch €25,00
+Vino della casa  € 8,00
+Vino della casa (375ml) € 5,00
+
+Vini Rose
+Costa d'Amalfi "Marisa Cuomo" €30,00
+Rosa est "Pico Maccario" DOC €25,00
+Vetere "San Salvatore €28,00
+
+Champagne & Spumanti
+Taittinger €90,00
+Ferrarri Brut €40,00
