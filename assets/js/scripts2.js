@@ -4,6 +4,13 @@ setTimeout(() => {
 
   xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
+      const categories = [
+        "Vini Rossi",
+        "Vini Bianchi",
+        "Vini Rose",
+        "Champagne & Spumanti",
+        "Bar & Aperitivi",
+      ];
       const words = xhttp.responseText;
 
       words.split(/\r?\n/).map((row) => {
@@ -13,7 +20,7 @@ setTimeout(() => {
         if (row === "") return;
 
         row.split("€").map((p, i) => {
-          if (p == "Vini Rossi" || p == "Vini Bianchi" || p == "Vini Rose" || p== "Champagne & Spumanti") {
+          if (categories.includes(p)) {
             var trh = document.createElement("tr");
             var thh1 = document.createElement("th");
             var thh2 = document.createElement("th");
@@ -27,16 +34,10 @@ setTimeout(() => {
             trh.appendChild(thh2);
             tbody.appendChild(trh);
             return;
-          } else if (
-            !(p == "Vini Rossi" || p == "Vini Bianchi" || p == "Vini Rose" || p== "Champagne & Spumanti") &&
-            i == 0
-          ) {
+          } else if (!categories.includes(p) && i == 0) {
             // voce di menu
             tdm.textContent = p;
-          } else if (
-            !(p == "Vini Rossi" || p == "Vini Bianchi" || p == "Vini Rose" ||  p== "Champagne & Spumanti") &&
-            i == 1
-          ) {
+          } else if (!categories.includes(p) && i == 1) {
             // voce di costo
             tdp.style.textAlign = "center";
             tdp.textContent = `€ ${p}`;

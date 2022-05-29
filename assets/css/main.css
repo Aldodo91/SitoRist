@@ -4172,6 +4172,7 @@ body.is-mobile.landing #footer {
 
 .en {
   font-style: italic;
+  border-top: 1.2px ridge;
 }
 
 .prezzo {
@@ -4206,9 +4207,8 @@ body.is-mobile.landing #footer {
   margin: 0px 5px;
 }
 .circleContainer{
-  display: flex;
-  width: 200px;
-  /* justify-content: space-evenly; */
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
 }
 .circle {
   height: 15px;
@@ -4219,9 +4219,12 @@ body.is-mobile.landing #footer {
   color: black;
   font-weight: 300;
   border-radius: 50%;
-  background-color: red;
-  margin: 0px 5px;
+  margin: 3px 5px;
   font-size: xx-small;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  padding: 9px;
 }
 .a1{
   background-color: #F03F4E;

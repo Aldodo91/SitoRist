@@ -41,3 +41,9 @@ Vetere "San Salvatore €28,00
 Champagne & Spumanti
 Taittinger €90,00
 Ferrarri Brut €40,00
+
+Bar & Aperitivi
+Coca-cola €3,00
+Fanta €3,00
+Sprite €3,00
+Birra €3,00

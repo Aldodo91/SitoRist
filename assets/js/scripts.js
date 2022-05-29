@@ -3,6 +3,14 @@ var tbody = document.querySelector("tbody");
 
 xhttp.onreadystatechange = function () {
   if (this.readyState == 4 && this.status == 200) {
+    const categories = [
+      "PRIMI",
+      "SECONDI",
+      "PIZZE",
+      "ANTIPASTI",
+      "CONTORNI",
+      "Specialità del pizzaiolo",
+    ];
     const words = xhttp.responseText;
     console.clear();
 
@@ -14,13 +22,7 @@ xhttp.onreadystatechange = function () {
       if (row === "") return;
 
       row.split("€").map((p, i) => {
-        if (
-          p == "PRIMI" ||
-          p == "SECONDI" ||
-          p == "PIZZE" ||
-          p == "ANTIPASTI" ||
-          p == "CONTORNI"
-        ) {
+        if (categories.includes(p)) {
           var trh = document.createElement("tr");
           var thh1 = document.createElement("th");
           var thh2 = document.createElement("th");
@@ -34,16 +36,7 @@ xhttp.onreadystatechange = function () {
           trh.appendChild(thh2);
           tbody.appendChild(trh);
           return;
-        } else if (
-          !(
-            p == "PRIMI" ||
-            p == "SECONDI" ||
-            p == "PIZZE" ||
-            p == "ANtiPASTI" ||
-            p == "CONTORNI"
-          ) &&
-          i == 0
-        ) {
+        } else if (!categories.includes(p) && i == 0) {
           // voce di menu
           const regex = /[0-9]*/g;
           console.log(p);
@@ -56,10 +49,10 @@ xhttp.onreadystatechange = function () {
           divContainer.classList.add("circleContainer");
           const itVoce = p.split("|")[0];
           const enVoce = p.split("|")[1];
-          divIt.innerHTML = itVoce.split("(")[0];
+          divIt.innerHTML = itVoce.split("*")[0];
           enVoce &&
             (() => {
-              divEn.innerHTML = enVoce.split("(")[0];
+              divEn.innerHTML = enVoce.split("*")[0];
             })();
           tdm.appendChild(divIt);
           tdm.appendChild(divEn);
@@ -74,19 +67,14 @@ xhttp.onreadystatechange = function () {
               span.classList.add(`a${n}`);
               n && divContainer.appendChild(span);
             });
-        } else if (
-          !(
-            p == "PRIMI" ||
-            p == "SECONDI" ||
-            p == "PIZZE" ||
-            p == "ANtiPASTI" ||
-            p == "CONTORNI"
-          ) &&
-          i == 1
-        ) {
+        } else if (!categories.includes(p) && i == 1) {
           // voce di costo
-          tdp.classList.add("prezzo");
-          tdp.textContent = `€ ${p}`;
+          const divCost = document.createElement("div");
+          divCost.classList.add("prezzo");
+          // tdp.classList.add("prezzo");
+          divCost.innerHTML = `€ ${p}`;
+          tdp.appendChild(divCost);
+          // tdp.textContent = `€ ${p}`;
         }
         if (tdm != "") {
           tr.appendChild(tdm);
