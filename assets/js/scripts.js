@@ -23,6 +23,7 @@ xhttp.onreadystatechange = function () {
 
       row.split("€").map((p, i) => {
         if (categories.includes(p)) {
+          // Categoria del menu
           var trh = document.createElement("tr");
           var thh1 = document.createElement("th");
           var thh2 = document.createElement("th");
@@ -37,8 +38,8 @@ xhttp.onreadystatechange = function () {
           tbody.appendChild(trh);
           return;
         } else if (!categories.includes(p) && i == 0) {
-          // voce di menu
-          const regex = /[0-9]*/g;
+          // voce di menu del prodotto
+          const regex = /[0-9]*/g; // prendi i numeri (gli allergeni)
           console.log(p);
           const divIt = document.createElement("div");
           const divEn = document.createElement("div");
@@ -49,7 +50,7 @@ xhttp.onreadystatechange = function () {
           divContainer.classList.add("circleContainer");
           const itVoce = p.split("|")[0];
           const enVoce = p.split("|")[1];
-          divIt.innerHTML = itVoce.split("*")[0];
+          divIt.innerHTML = itVoce.split("*")[0]; // non mostrare gli allergeni nel menu
           enVoce &&
             (() => {
               divEn.innerHTML = enVoce.split("*")[0];
@@ -68,13 +69,11 @@ xhttp.onreadystatechange = function () {
               n && divContainer.appendChild(span);
             });
         } else if (!categories.includes(p) && i == 1) {
-          // voce di costo
+          // voce di costo del prodotto
           const divCost = document.createElement("div");
           divCost.classList.add("prezzo");
-          // tdp.classList.add("prezzo");
           divCost.innerHTML = `€ ${p}`;
           tdp.appendChild(divCost);
-          // tdp.textContent = `€ ${p}`;
         }
         if (tdm != "") {
           tr.appendChild(tdm);
@@ -87,10 +86,3 @@ xhttp.onreadystatechange = function () {
 };
 xhttp.open("GET", "./Menu.txt", true);
 xhttp.send();
-
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement(
-    { pageLanguage: "en" },
-    "google_translate_element"
-  );
-}
