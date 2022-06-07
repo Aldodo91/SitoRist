@@ -1606,6 +1606,9 @@ pre code {
 }
 
 @media screen and (max-width: 480px) {
+  .prezzo{
+    font-size: 14px;
+  }
   .row {
     display: flex;
     flex-wrap: wrap;
@@ -4187,7 +4190,7 @@ body.is-mobile.landing #footer {
 }
 
 .w80 {
-  width: 80%;
+  width: 60%;
 }
 .allergeni{
   display: grid;
