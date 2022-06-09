@@ -2358,6 +2358,13 @@ ul.actions.fit.stacked {
     margin-left: 0;
     width: 100% !important;
   }
+  .wrapper.style5{
+    padding: 5em 0px;
+  }
+  .coseMenut{
+    border: 1px solid #000;
+    padding: 0px 50px;
+  }
 
   ul.actions:not(.fixed) li {
     -moz-flex-grow: 1;
@@ -4275,4 +4282,8 @@ body.is-mobile.landing #footer {
   background-color: #EDC62E;
 }
 
-
+@media screen and (max-width: 480px) {
+  .coseMenu{
+    margin: 0px 10px 20px 15px ;
+  }
+}
