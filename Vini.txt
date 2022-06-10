@@ -1,26 +1,15 @@
-Vini Rossi
-Villa Raiano"Aglianico"  € 20,00
-Sant'Antonio"Amarone"  €60,00
-Maccario"Barolo"  €48,00
-Maccario Barbera d'Asti "Tre Roveri Nizza"  €35,00
-Bolgheri"Il Bruciato"(Cabernet sauvignon,Merlot,syrah)  €40,00
-Fattorie Melini"Granaio"Chianti  €23,00
-Marisa Cuomo "Furore"  €35,00
-Tenuta San Francesco"Tramonti"€20,00
-Gragnano "Otto uve Martuciello"  €18,00
-Astroni "Gragnano Penisola Sorrentina"€18,00
-Piedirosso " Colle Rotondella"€20,00
-Etna Rosso "Duca di Salaparuta" DOC €22,00
-Lorano "Maria Pia Castelli"  €23,00
-Per'e palumm DOC"Casa D'Ambra"  €20,00
-Primitivo di Manduria DOC "lirica"  €20,00
-Amarano "Taurasi"  €60,00
-Macchialupa"Taurasi"€50,00
-Cantine il vino e la luna"Taurasi"€40,00
-Masi-Vespa"Terregiunte"(Amarone,Primitivo)  €120,00
-Vino della Casa  €9,00
-Vino della casa (375ml) €6,00
-
+Champagne & Spumanti
+Boizel "Grand Vintage" €90,00
+Boizel "Brut reserve" € 65,00
+Boizel rosè € 88,00
+Taittinger  Brut €90,00
+Ferrarri TrentoDOC "Maximum"blanc de blancs €33,00
+Franciacorta Pas Dosè millesimato"Majolini" €30,00
+Franciacorta Satèn "Majolini"Bio  €30,00
+Franciacorta "Bellavista" Brut €35,00
+Dom Perignon"Vintage" 2010  €220,00
+Bourgeois-Diaz"Brut Nature" blanc de noir €70,00
+Vilmart e C." Brut rosè" Premier Cru €78,00
 Vini Bianchi
 Abbazia di Crapolla IGP"Sireo" €35,00
 Abbazia di Crapolla IGP"Poizzo"€21,00
@@ -46,28 +35,34 @@ Villa Sandi"Prosecco superiore"  €18,00
 Borgo Conventi Ribolla Gialla "Collio" €20,00
 Borgo Conventi Ribolla Gialla "Venezia Giulia"€18,00
 Borgo conventi "Collio" Sauvignon Blanc  €20,00
-Borgo Conventi "Pinot Grigio" Isonzo DOC €18,00
+Borgo Conventi "Pinot Grigio" Isonzo  €18,00
 Vino della casa  € 9,00
 Vino della casa (375ml) €6,00
-
 Vini Rose
 Rosa est "Pico Maccario" DOC €25,00
 Vetere IGP "San Salvatore €30,00
-
-Champagne & Spumanti
-Boizel "Grand Vintage" €90,00
-Boizel "Brut reserve" € 65,00
-Boizel rosè € 88,00
-Taittinger  Brut €90,00
-Ferrarri TrentoDOC "Maximum"blanc de blancs €33,00
-Franciacorta Pas Dosè millesimato"Majolini" €30,00
-Franciacorta Satèn "Majolini"€  Bio €30,00
-Franciacorta "Bellavista" Brut €35,00
-Dom Perignon"Vintage" 2010  €220,00
-Bourgeois-Diaz"Brut Nature" blanc de noir €70,00
-Vilmart e C." Brut rosè" Premier Cru €78,00
-
-
+Vini Rossi
+Villa Raiano"Aglianico"  € 20,00
+Sant'Antonio"Amarone"  €60,00
+Maccario"Barolo"  €48,00
+Maccario Barbera d'Asti "Tre Roveri Nizza"  €35,00
+Bolgheri"Il Bruciato"(Cabernet sauvignon,Merlot,syrah)  €40,00
+Fattorie Melini"Granaio"Chianti  €23,00
+Marisa Cuomo "Furore"  €35,00
+Tenuta San Francesco"Tramonti"€20,00
+Gragnano "Otto uve Martuciello"  €18,00
+Astroni "Gragnano Penisola Sorrentina"€18,00
+Piedirosso " Colle Rotondella"€20,00
+Etna Rosso "Duca di Salaparuta" DOC €22,00
+Lorano "Maria Pia Castelli"  €23,00
+Per'e palumm DOC"Casa D'Ambra"  €20,00
+Primitivo di Manduria DOC "lirica"  €20,00
+Amarano "Taurasi"  €60,00
+Macchialupa"Taurasi"€50,00
+Cantine il vino e la luna"Taurasi"€40,00
+Masi-Vespa"Terregiunte"(Amarone,Primitivo)  €120,00
+Vino della Casa  €9,00
+Vino della casa (375ml) €6,00
 Bar & Aperitivi
 Coca-cola €3,00
 Fanta €3,00
@@ -85,3 +80,5 @@ Turtel analcolica 33cl €3,00
 Aperol Spritz €5,00
 Gin tonic €5,00
 Limoncello Spritz €5,00
+Vini a Calice
+Vino della casa, scrivi solo in italiano €10

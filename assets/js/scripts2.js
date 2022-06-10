@@ -10,6 +10,7 @@ setTimeout(() => {
         "Vini Rose",
         "Champagne & Spumanti",
         "Bar & Aperitivi",
+        "Vini a Calice",
       ];
       const words = xhttp.responseText;
 

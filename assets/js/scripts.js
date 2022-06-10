@@ -10,9 +10,9 @@ xhttp.onreadystatechange = function () {
       "ANTIPASTI",
       "CONTORNI",
       "Specialità del pizzaiolo",
+      "DOLCI",
     ];
     const words = xhttp.responseText;
-    console.clear();
 
     words.split(/\r?\n/).map((row) => {
       var tr = document.createElement("tr");
@@ -40,7 +40,6 @@ xhttp.onreadystatechange = function () {
         } else if (!categories.includes(p) && i == 0) {
           // voce di menu del prodotto
           const regex = /[0-9]*/g; // prendi i numeri (gli allergeni)
-          console.log(p);
           const divIt = document.createElement("div");
           const divEn = document.createElement("div");
           divIt.classList.add("it");
