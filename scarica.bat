@@ -1,1 +1,2 @@
+git restore .
 git pull
