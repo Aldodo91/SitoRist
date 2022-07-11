@@ -19,7 +19,6 @@ Iovine "vigna Micciano" €20,00
 Duca di Salaparuta"Lavico"(carricante)€21,00
 Astroni Falanghina "Astro" €18,00
 Villa Raiano"Fiano di Avellino" €22,00
-San Salvatore Fiano Paestum" Trentenare" €24,00
 Astroni"Dama Bianca"blend (falanghina-fiano) €22,00
 Marisa Cuomo"Fior d'uva" €70,00
 Marisa Cuomo"Furore" €35,00
@@ -39,7 +38,8 @@ Borgo Conventi "Pinot Grigio" Isonzo  €18,00
 Vino della casa  € 9,00
 Vino della casa (375ml) €6,00
 Vini Rose
-Rosa est "Pico Maccario" DOC €25,00
+Lavignone "Pico Maccario" €22,00
+Rosa est "Pico Maccario"  €25,00
 Vetere IGP "San Salvatore €30,00
 Vini Rossi
 Villa Raiano"Aglianico"  € 20,00
@@ -48,16 +48,15 @@ Maccario"Barolo"  €48,00
 Maccario Barbera d'Asti "Tre Roveri Nizza"  €35,00
 Bolgheri"Il Bruciato"(Cabernet sauvignon,Merlot,syrah)  €40,00
 Fattorie Melini"Granaio"Chianti  €23,00
-Marisa Cuomo "Furore"  €35,00
+Marisa Cuomo "Furore"  €38,00
 Tenuta San Francesco"Tramonti"€20,00
 Gragnano "Otto uve Martuciello"  €18,00
 Astroni "Gragnano Penisola Sorrentina"€18,00
 Piedirosso " Colle Rotondella"€20,00
-Etna Rosso "Duca di Salaparuta" DOC €22,00
-Lorano "Maria Pia Castelli"  €23,00
+Etna Rosso "Duca di Salaparuta"  €22,00
 Per'e palumm DOC"Casa D'Ambra"  €20,00
 Primitivo di Manduria DOC "lirica"  €20,00
-Amarano "Taurasi"  €60,00
+Cantine Caggiano "Taurasi"  €53,00
 Macchialupa"Taurasi"€50,00
 Cantine il vino e la luna"Taurasi"€40,00
 Masi-Vespa"Terregiunte"(Amarone,Primitivo)  €120,00
@@ -68,7 +67,7 @@ Coca-cola €3,00
 Fanta €3,00
 Sprite €3,00
 Birra Peroni spina 04cl  €4,00
-Birra Peroni spina 04cl  €3,00
+Birra Peroni spina 02cl  €3,00
 Birra Peroni Gran Riserva rossa|bianca €4,50
 Birra Corona 33cl €4,00
 Birra Heineken 33cl €4,00
@@ -81,4 +80,12 @@ Aperol Spritz €5,00
 Gin tonic €5,00
 Limoncello Spritz €5,00
 Vini a Calice
-Vino della casa, scrivi solo in italiano €10
+Vino della casa bianco  €4,00
+Falanghina "Astro" Astroni €6,00
+Prosecco "Villa Sandi" €6,00
+Ribolla gialla "Borgo conventi" €6,00
+Vino della casa rosso € 4,00
+Barbera d'Asti"Maccario" € 8,00
+Piedirosso "Astroni" €6,00
+Barolo"Maccario" €10,00
+Boizel champagne brut € 15,00
