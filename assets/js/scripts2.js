@@ -1,5 +1,6 @@
 const makeItStrong = (p) => {
   const firstQuoteIndex = p.indexOf("/");
+  const lastIndexOfQuote = p.lastIndexOf("/");
   if (firstQuoteIndex <= 0) {
     return `<p>${p}</p>`;
   }
@@ -9,8 +10,9 @@ const makeItStrong = (p) => {
   );
   const textBeforeFirstQuote = p.substring(0, firstQuoteIndex);
   console.log(textBeforeFirstQuote, textBetweenQuotes);
+  const restOfString = p.substring(lastIndexOfQuote + 1, p.length);
 
-  return `<strong>${textBeforeFirstQuote}</strong> <i>${textBetweenQuotes}</i>`;
+  return `<strong>${textBeforeFirstQuote}</strong> <i>${textBetweenQuotes}</i> ${restOfString}`;
 };
 setTimeout(() => {
   var xhttp = new XMLHttpRequest();
