@@ -1,3 +1,17 @@
+const makeItStrong = (p) => {
+  const firstQuoteIndex = p.indexOf("/");
+  if (firstQuoteIndex <= 0) {
+    return `<p>${p}</p>`;
+  }
+  const textBetweenQuotes = p.substring(
+    firstQuoteIndex + 1,
+    p.indexOf("/", firstQuoteIndex + 1)
+  );
+  const textBeforeFirstQuote = p.substring(0, firstQuoteIndex);
+  console.log(textBeforeFirstQuote, textBetweenQuotes);
+
+  return `<strong>${textBeforeFirstQuote}</strong> <i>${textBetweenQuotes}</i>`;
+};
 setTimeout(() => {
   var xhttp = new XMLHttpRequest();
   var tbody = document.getElementById("menuVini");
@@ -37,7 +51,7 @@ setTimeout(() => {
             return;
           } else if (!categories.includes(p) && i == 0) {
             // voce di menu
-            tdm.textContent = p;
+            tdm.innerHTML = makeItStrong(p);
           } else if (!categories.includes(p) && i == 1) {
             // voce di costo
             tdp.style.textAlign = "center";
