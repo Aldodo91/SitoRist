@@ -1,18 +1,18 @@
 const makeItStrong = (p) => {
-  const firstQuoteIndex = p.indexOf("/");
-  const lastIndexOfQuote = p.lastIndexOf("/");
-  if (firstQuoteIndex <= 0) {
+  const firstSlashIndex = p.indexOf("/");
+  const lastSlashIndex = p.lastIndexOf("/");
+  if (firstSlashIndex <= 0) {
     return `<p>${p}</p>`;
   }
-  const textBetweenQuotes = p.substring(
-    firstQuoteIndex + 1,
-    p.indexOf("/", firstQuoteIndex + 1)
+  const textBetweenSlashes = p.substring(
+    firstSlashIndex + 1,
+    p.indexOf("/", firstSlashIndex + 1)
   );
-  const textBeforeFirstQuote = p.substring(0, firstQuoteIndex);
-  console.log(textBeforeFirstQuote, textBetweenQuotes);
-  const restOfString = p.substring(lastIndexOfQuote + 1, p.length);
+  const textBeforeFirstSlash = p.substring(0, firstSlashIndex);
+  console.log(textBeforeFirstSlash, textBetweenSlashes);
+  const restOfString = p.substring(lastSlashIndex + 1, p.length);
 
-  return `<strong>${textBeforeFirstQuote}</strong> <i>${textBetweenQuotes}</i> ${restOfString}`;
+  return `<strong>${textBeforeFirstSlash}</strong> <i>${textBetweenSlashes}</i> ${restOfString}`;
 };
 setTimeout(() => {
   var xhttp = new XMLHttpRequest();
