@@ -1606,7 +1606,7 @@ pre code {
 }
 
 @media screen and (max-width: 480px) {
-  .prezzo{
+  .prezzo {
     font-size: 14px;
   }
   .row {
@@ -2200,9 +2200,12 @@ input[type="radio"] + label:before {
   position: relative;
 }
 
+.square {
+}
+
 .image img {
   border-radius: 3px;
-  display: block;
+  /* display: block; */
 }
 
 .image.left {
@@ -2358,10 +2361,10 @@ ul.actions.fit.stacked {
     margin-left: 0;
     width: 100% !important;
   }
-  .wrapper.style5{
+  .wrapper.style5 {
     padding: 5em 0px;
   }
-  .coseMenut{
+  .coseMenut {
     border: 1px solid #000;
     padding: 0px 50px;
   }
@@ -4199,13 +4202,13 @@ body.is-mobile.landing #footer {
 .w80 {
   width: 60%;
 }
-.allergeni{
+.allergeni {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 5px 0px;
   max-width: 500px;
 }
-.allergene{
+.allergene {
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -4213,10 +4216,10 @@ body.is-mobile.landing #footer {
   font-size: small;
   margin: 0px 5px;
 }
-.allergeneDetail{
+.allergeneDetail {
   margin: 0px 5px;
 }
-.circleContainer{
+.circleContainer {
   display: grid;
   grid-template-columns: repeat(7, 1fr);
 }
@@ -4236,54 +4239,54 @@ body.is-mobile.landing #footer {
   text-align: center;
   padding: 9px;
 }
-.a1{
-  background-color: #F03F4E;
+.a1 {
+  background-color: #f03f4e;
 }
-.a2{
-  background-color: #EDC62E;
+.a2 {
+  background-color: #edc62e;
 }
-.a3{
-  background-color: #91C422;
+.a3 {
+  background-color: #91c422;
 }
-.a4{
-  background-color: #F59C24;
+.a4 {
+  background-color: #f59c24;
 }
-.a5{
-  background-color: #C97B52;
+.a5 {
+  background-color: #c97b52;
 }
-.a6{
-  background-color: #35BBD2;
+.a6 {
+  background-color: #35bbd2;
 }
-.a7{
-  background-color: #6AB64C;
+.a7 {
+  background-color: #6ab64c;
 }
-.a8{
-  background-color: #F59C24;
+.a8 {
+  background-color: #f59c24;
 }
-.a9{
-  background-color: #38507C;
+.a9 {
+  background-color: #38507c;
 }
-.a10{
-  background-color: #35BBD2;
+.a10 {
+  background-color: #35bbd2;
 }
-.a11{
-  background-color: #8E8DB1;
+.a11 {
+  background-color: #8e8db1;
 }
-.a12{
-  background-color: #F36F38;
+.a12 {
+  background-color: #f36f38;
 }
-.a13{
-  background-color: #EC6564;
+.a13 {
+  background-color: #ec6564;
 }
-.a14{
-  background-color: #F59C24;
+.a14 {
+  background-color: #f59c24;
 }
-.a15{
-  background-color: #EDC62E;
+.a15 {
+  background-color: #edc62e;
 }
 
 @media screen and (max-width: 480px) {
-  .coseMenu{
-    margin: 0px 10px 20px 15px ;
+  .coseMenu {
+    margin: 0px 10px 20px 15px;
   }
 }

@@ -1,50 +1,67 @@
 Champagne & Spumanti
-AOC BOIZEL/grand vintage/(chardonnay,pinot noir,pinot meunieur)  €90,00
-AOC BOIZEL/reserve brut/(chardonnay,pinot noir,pinot meunieur) € 65,00
-AOC BOIZEL/rosè brut/(chardonnay,pinot noir,pinot meunieur) € 88,00
-AOC TAITTINGER/ Millesimè Brut 2014/(chardonnay,pinot noir,pinot meunieur) €90,00
-TRENTO DOC FERRARI/maximum blanc de blancs/(chardonnay 100%)   €33,00
-FRANCIACORTA MAJOLINI/Pas Dosè millesimato/ (chardonnay 100%)  €30,00
+BOIZEL/grand vintage/(chardonnay,pinot noir,pinot meunieur)  €90,00
+BOIZEL/reserve brut/(chardonnay,pinot noir,pinot meunieur) € 65,00
+BOIZEL/rosè brut/(chardonnay,pinot noir,pinot meunieur) €85,00
+TAITTINGER/ Millesimè Brut 2014/(chardonnay,pinot noir,pinot meunieur) €90,00
+CANEVEL/EXTRA BRUT/prosecco Terre del Faè(glera)€20,00
+CANEVEL/EXTRA Dry/ il millesimato2021/(glera) €22,00
+CANEVEL/Dry PROSECCO di CARTIZZE SUPERIORE/(GLERA) €22,00
+ASTRONI/Astro/(falanghina) campi flegrei €18,00
+TRENTO DOC FERRARI/maximum blanc de blancs/(chardonnay 100%)   €30,00
+FRANCIACORTA MAJOLINI/Pas Dosè millesimato/(chardonnay 100%)  €30,00
 FRANCIACORTA MAJOINI/Satèn Bio/(chardonnay 100%)             €30,00
-FRANCIACORTA BELLAVISTA/Brut/ (chardonnay 100%)             €35,00
-AOC DOM PERIGNON/vintage Grand Cru 2010/( chardonnay, pinot noir)  €250,00
+FRANCIACORTA BELLAVISTA/Brut/ (chardonnay 100%)             €32,00
+AOC DOM PERIGNON/vintage Grand Cru 2010/( chardonnay, pinot noir) €250,00
 Vini Bianchi
 IGP ABBAZIA DI CRAPOLLA/Sireo/2019(falanghina,fiano)        €35,00
 IGP ABBAZIA DI CRAPOLLA/Poizzo/2020(falanghina,fiano,moscato) €21,00
-ASTRONI/ Cru Strione/2015(falanghina 100%) €28,00
-FEUDI SAN GREGORIO DOCG/serrocielo/2021(falanghina 100%)     €20,00
+ASTRONI/ Cru Strione/2015(falanghina 100%)     €28,00
+FEUDI SAN GREGORIO DOCG/serrocielo/2021(falanghina 100%)   €20,00
 CANTINE TOMMASONE/biancolella/2022(biancolella 100%)       €22,00
 CANTINE CAGGIANO/bechar/2021(fiano di Avellino 100%)       €25,00
 VILLA RAIANO DOCG/fiano di Avellino/2021(fiano 100%)        €22,00
 VILLA RAIANO DOCG/greco di tufo/2021(greco di tufo 100%)    €22,00
-RADICI VIVE/dama bianca/2021(falanghina-fiano)               €22,00
+RADICI VIVE/fiano/2022(fiano)                           €18,00
+RADICI VIVE/GRECO/2022(greco)                          €18,00
 MARISA CUOMO DOC /fiorduva/2015 (fenile,ginestra,ripoli)     €70,00
 MARISA CUOMO DOC/furore bianco/2022(falanghina,biancolella)  €35,00
-QUINTODECIMO DOCG/ giallo d'arles/2020(greco di Tufo 100%)  €50,00
+QUINTODECIMO DOCG/giallo d'arles/2020(greco di Tufo 100%)  €50,00
 ASTRONI DOCG/vitis aminea/2021(greco di Tufo 100%)         €20,00
-IOVINE /greco/(greco 100%)                           €18,00
-JERMANN/chardonnay/2021(chardonnay 100%)             €32,00
-PICO MACCARIO DOCG/dolcevita/2021(moscato d'asti)100% €17,00
+MARCO FELLUGA/chardonnay/2022                             €20,00
+MARCO FELLUGA/pinot grigio/2022                           €20,00
+MARCO FELLUGA/sauvignon blanc/2022                        €20,00
+JERMANN/chardonnay/2021(chardonnay 100%)                  €30,00
+PICO MACCARIO DOCG/dolcevita/2021(moscato d'asti)100%     €17,00
 CAVIT TRENTINO DOC/ gewurztraminer/2021(gewurztraminer 100%)   €23,00
-CAVIT TRENTINO DOC/pinot grigio/2021(pinot grigio 100%)    €20,00
-CANEVEL DOCG/prosecco terre del faè extra brut/(glera 100%)   € 20,00
-CANEVEL DOCG/valdobbiadene millesimato extra dry/2021(glera 100%) € 22,00
-BORGO CONVENTI/collio sauvignon/2020(sauvignon blanc 100%)     €20,00
-Vino della casa  € 10,00
+CA'VIOLA/CLEM/riesling (riesling 100%)2020            €30,00
+RICOSSA/ROERO arneis/2021(arneis 100%) €18,00
+MASI/Lunatio/2022(lugana100%) €20,00
+MASI/Masianco/2022(pinot grigio 100%) €20,00
+DUCA DI SALAPARUTA/lavico/2022(carricante100%)          €21,00
+Vino della casa 75 cl € 10,00
 Vino della casa (375ml) €6,00
 Vini Rose
 SAN SALVATORE/Vetere/2021(aglianico 100%)            €30,00
+RADICI VIVE/Rosa/2022(piedirosso,aglianico)        €18,00
+MASI/ROSA DEI MASI/2022 (refosco 100%)  €20,00
 Vini Rossi
-SAN SALVATORE/Jungano/2019 (aglianico 100%)                         €25,00
+SAN SALVATORE/Jungano/2019 (aglianico 100%)              €25,00
+RADICI VIVE 891/piedirosso/2022 (piedirosso 100%)    €18,00
+RADICI VIVE 891/Storico/2020 (piedirosso,aglianico,primitivo) €18,00
 SANTA MARGHERITA DOCG/cabernet franc/2019 (cabernet franc 100%)    €25,00
-KETTMEIR/pinot nero/2020(pinot nero100%)                         €30,00 
-TENUTA SANT'ANTONIO DOCG/Amarone/2017(corvina,rondinella,croatina)    €60,00
-MARISA CUOMO DOC/furore rosso/2022(aglianico,piedirosso)            €38,00
-PICO MACCARIO DOCG/Barolo/2017(nebbiolo 100%)                          €48,00
+KETTMEIR/pinot nero/2020(pinot nero100%)                   €30,00
+CAPARZO/Brunello di Montalcino/2018 (sangiovese 100%) €35,00
+CA'VIOLA/Vilot/2021 (dolcetto) €20,00
+MASI/TOAR Valpolicella superiore/2019 (corvina,rondinella,oseleta) € 25,00
+MASI/Brolo di campofiorin oro/2019 (corvina,rondinella,oseleta) € 30,00
+MASI/Costasera amarone riserva/2017 corvina,rondinella,molinara € 65,00
+TENUTA SANT'ANTONIO/Amarone/2017(corvina,rondinella,croatina)    €60,00
+MARISA CUOMO/furore rosso/2022(aglianico,piedirosso)            €38,00
+PICO MACCARIO/Barolo/2017(nebbiolo 100%)                          €48,00
+DUCA DI SALAPARUTA/lavico/2020(nerello mascalese100%)  €22,00
 BOLGHERI ROSSO /il bruciato/2019(cabernet franc,merlot,syrah)           €40,00
 FATTORIE MELINI GRANAIO/chianti/2019(sangiovese,uve complementari)      €23,00
 ASTRONI/gragnano Penisola Sorrentina/2021(piedirosso,aglianico,sciascinoso)   €18,00
-MARTUSCIELLO/ gragnano ottouve/(aglianico,sciascinoso,piedirosso)     €18,00
 Iovine/gragnano/2022(piedirosso,aglianico,sciascinoso)     €18,00
 PRODUTTORI DI MANDURIA DOC/lirica/2019(primitivo 100%)     €20,00
 ANTONIO CAGGIANO DOCG/taurasi/2014(aglianico 100%)    €53,00
@@ -53,29 +70,31 @@ MASI-VESPA/terregiunte/2016(amarone,primitivo)        €120,00
 IL VINO E LA LUNA DOCG/taurasi/2015 (aglianico 100%)  €40,00
 Antinori IGT /tignanello/2019(sangiovese,cabernet sauvignon,cabernet franc)€ 140,00
 TENUTA SAN GUIDO BOLGHERI DOC/sassicaia/2000(cabernet franc,cabernet sauvignon)    €400,00
-Vino della Casa  €10,00
+Vino della Casa 75cl  €10,00
 Vino della casa (375ml) €6,00
 Vini a Calice
-Vino della casa bianco  €5,00
-Greco di tufo "ASTRONI" €6,00
-Vino della casa rosso € 5,00
-Barbera d'Asti"MACCARIO" €8,00
-Piedirosso "IOVINE" €6,00
+Vino della casa bianco  €4,00
+Prosecco "Canevel"€5,00
+Pinot grigio"Masi" €6,00
+Falanghina "ASTRONI"€5,00
+Vino della casa rosso €4,00
+Chianti "Fattorie Melini" €8,00
+Piedirosso "RadiciVive" €6,00
 Barolo"MACCARIO" €10,00
 AOC BOIZEL brut €20,00
 Bar & Aperitivi
-Coca-cola €3,00
+Coca-cola/Coca-cola zero €3,00
 Fanta €3,00
 Sprite €3,00
-Birra Peroni 66cl €4,00
+Birra Stella Artois spina 0,40cl €4,00
+Birra Stella Artois spina 0,20cl €3,00 
 Birra Nastro Azzurro 66cl€4,00
 Birra Peroni Gran Riserva rossa €5,00
 Birra Heineken 33cl €4,00
 Ichnusa non filtrata €4,00
 Birra Nastro Azzurro 66cl €4,00
-Tourtel analcolica 33cl €3,00
-Aperol Spritz €6,00
-Limoncello Spritz €6,00
+Tourtel analcolica 33cl €4,00
+Aperol Spritz €5,00
+Limoncello Spritz €5,00
 Tanqueray London dry Gin *serviti con fever-tree mediterranea €8,00  
 Gin Mare  *serviti con fever-tree mediterranea €6,00
-
