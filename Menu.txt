@@ -5,7 +5,6 @@ Misto di verdure| Mixed vegetables *6 12 15  €10,00
 Calamaretti e zucchini fritti| Fried squids with zucchini*12 15 12 €15,00
 Alici fritte|Fried anchovies*10 12 14 €10,00
 Fiori di zucca ripieni di ricotta|Fried pumpkin flowers stuffed with ricotta cheese*12 15 11 €6,00
-Polipetto alla luciana|Octopus with tomato sauce,olives,capperi,spicy*1 €15,00
 PRIMI
 Gnocchi alla sorrentina |Potatoes gnocchi with tomatosauce and mozzarella *15 12 14 €10,00
 Ravioli alla caprese | Homemadepasta stuffed with ricotta cheese covered with cherry tomatoes *12 15 1 €12,00
@@ -43,5 +42,6 @@ Pizza zucchini fritti e provolone: mozzarella,zucchini fritti e provolone|Mozzar
 Pizza scarola, caciotta e noci: mozzarella,noci e scarola stufata con oilve e uvetta passa | Mozzarella, escarole salad, caciotta cheese and nuts *11 12 15 5 €10,00
 DOLCI
 Crostata con fragole|Strawberry pie *12 15 14 7 5 €5,00
-Torta della nonna|Pie with cream and cherries*15 15 14 7 €5,00
+Apple pie|Apple pie*15 15 14 7 €5,00
 Caprese al cioccolato|Almond and chocolate cake*12 15 5 7 €5,00
+Profitterol al cioccolato|Profitterol stuffed with cream covered with chocolate sauce*12 15 7 11 €6,00
