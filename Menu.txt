@@ -2,32 +2,30 @@ ANTIPASTI
 Treccia alla brace con prosciutto crudo di Parma|Grilled local mozzarella with raw Parma ham  *11 12 15 6  €10,00
 Frittura all'italiana | Mixed italian fried food (potatoes crocchè, mozzarella fried, rice balls, aubergines fried) *11 12 14 7 15 €15,00  
 Misto di verdure| Mixed vegetables *6 12 15  €10,00
-Fiori di zucca ripieni|Stuffed flowers pumpkin *11 12 15 €8,00
 Frittura di calamaretti e zucchini|Fried squids and zucchini *12 15 1 11 €15,00
-Polipo all'insalata|Octopus salad *3 1  €18,00 
-Impepeta di cozze|Peppered mussels *1 €10,00
+Fiori di zucca ripieni di ricotta|Fried flowers pumpkin stuffed with ricotta cheese *11 15 12  €8,00 
 Alici marinate|Marinated anchovies *10 €8,00
+Impepeta di cozze|Peppered mussels *1 €10,00
 PRIMI
-Gnocchi alla sorrentina |Potatoes gnocchi with tomatosauce and mozzarella *15 12 14 €12,00
-Ravioli alla caprese | Homemadepasta stuffed with ricotta cheese covered with cherry tomatoes *12 15 14 €12,00
+Gnocchi alla sorrentina |Potatoes gnocchi with tomato sauce mozzarella and basil *15 12 14 11 €12,00
+Pasta fagioli e cozze |Pasta beans and mussels *12 15 1 €13,00
 Scialatielli ai frutti di mare|Homemadepasta with seafood and cherry tomatoes *12 14 15 10 13 €18,00
-Paccheri con ricciola|Paccheri with yellowtale and cherry tomatoes *12 15 10 €20,00
 Risotto alla pescatora|Risotto with seafood (sqids, tomatosauce, clams, mussels, shrimps) *15 12 1 13 €20,00
-Tagliolini zucchini e vongole|Homemadepasta clams and zucchini fried *15 12 13 €16,00
-Gnocchi agli agrumi (ripieni di ricciola) |Potatoes gnocchi stuffed with yellowtale covered with citrus sauce *12 15 11 13  €15,00 
+Ravioli alla capese|Homemadepasta stuffed with caciotta cheese and majoran covered with cherries tomato *15 12 13 €12,00
+Tagliolini zucchini e vongole |Homemade pasta with zucchini fried, clams and cherry tomatoes *12 15 11 13  €16,00
+Spaghetti con vongole |Spaghetti with clams and olive oil *12 15 1 €16,00 
 SECONDI
-Misto di pesce alla brace |Mixed grilled fish (prowns, shrimps, squid, seabass, salmon) *10 6 13 1 €25,00
-Salmone al forno con arancia e timo|Baked salmon with orange and thyme *10  €15,00
-Trancio di ricciola alla brace|Grilled yellowtale *10 6 €18,00
+Misto di pesce alla brace |Mixed grilled fish (prowns, shrimps, squid, seabass, salmon) *10 6 13 1 12 15  €25,00
+Trancio di salmone al forno con  arancia e timo|Baked salmon with orange and thyme *10  €15,00
 Orata gratinata|Seabass au gratin *10 12 15 €18,00   
-Bistecca alla brace|Grilled steak *6 €20,00
-Frittura di gamberi e calamari|Fried squids and shrimps *12 15 13 €18,00   
+Bistecca alla brace|Grilled steak *6 €22,00
+Frittura di pesce mista|Mixed Fried fish (squids, shrimps, anchovies) *12 15 13 10  €20,00   
 CONTORNI
 Insalata verde | Green salad *6 €4,00
 Insalata mista | Mixed salad *6   €5,00
 Patatine fritte | French fries *9  €5,00
 Parmigiana di melanzane | Eggplant parmigiana (with mozzarella cheese, basil and tomato sauce) *11 15 12 €8,00
-Insalata caprese|Caprese salad (tomato, mozzarella, basil origano) *3 11 €10,00
+Insalata caprese|Caprese salad (tomato, mozzarella, basil, origano) *3 11 €10,00
 PIZZE
 Pizza Margherita: pomodoro, mozzarella e basilico | Tomato sauce mozzarella and basil *11 12 15 €7,00  
 Pizza Marinara: olio, pomodoro, aglio e origano | Tomato sauce, basil, origano, garlic *15 12  €6,00   
@@ -37,7 +35,7 @@ Pizza con parmigiana di melanzane: mozzarella, pomodoro e melanzane a fette | To
 Pizza Capricciosa: mozzarella, pomodoro, funghi, olive, salsiccia e prosciutto cotto | Tomato sauce, mozzarella, aubergines, sausage, olives, mushrooms and ham *15 12 11 €10,00
 Pizza con pomodorini, rucola, crudo e scaglie | Mozzarella, cherry tomatoes, roket salad, ham and parmesan cheese *15 12 11  €10,00 
 Pizza pomodorini e provola | Mozzarella and cherry tomatoes *15 11  €8,00 
-Pizza con melanzane e salsiccia: mozzarella, pomodoro, melanzane e salsiccia|Tomato sauce, mozzarella, aubergines and sausage *15 12 11 €9,00 
+Pizza con melanzane e salsiccia: mozzarella, pomodoro, melanzane e salsiccia|Tomato sauce, mozzarella, aubergines and sausage *15 12 11 €10,00 
 Pizza Ortolana: mozzarella e verdure miste (grigliate e in padella)|mozzarella and mixed vegetables *15 12 11 6 €10,00     
 Focaccia caprese  : mozzarella, pomodori, basilico | tomato, mozzarella, basil, origano *15 12 11   €10,00
 Margherita con alici e olive nere|Tomato sauce, anchovies, mozzarella, basil, olives*12 15 11 10 €10,00
@@ -46,8 +44,7 @@ Pizza zucchini fritti e provolone: mozzarella, zucchini fritti e provolone|Mozza
 Pizza scarola, caciotta e noci: mozzarella, noci e scarola stufata con oilve e uvetta passa | Mozzarella, escarole salad, caciotta cheese and nuts *11 12 15 5 €10,00
 Pizza radicchio e gorgonzola:mozzarella radicchio, gorgonzola|Mozzarella cheese, radicchio and gorgonzola *11 12 15 5 €10,00
 DOLCI
-Profitterol al cioccolato|Profitterol stuffed with cream covered with chocolate sauce *15 14 7 12 11 5 €6,00
-Crostata fichi e noci|Tart with cream figs and walnuts *7 5 14 15 12 11 €6,00
-Torta ricotta e pere |Cake with ricotta cheese and pears *12 15 5 7 14 11 €6,00
-Caprese al cioccolato|Cake with almonds and chocolate *12 15 7 14 11 5 €6,00
-Granita di limone|Lemon granita € 4,00
+Profiteroles al cioccolato|Profiteroles stuffed with cream covered with chocolate sauce *12 15 7 14 11 5 €6,00
+Caprese al cioccolato|Cake with chocolate and almonds *12 15 11 5 7 14 €6,00
+Torta della nonna(crema e amarene)|Tart with chocolate cream,white cream and cherries *12 15 11 5 7 €6,00
+

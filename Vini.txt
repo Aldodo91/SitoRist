@@ -14,8 +14,6 @@ ASTRONI/Cratere bianco/lacryma christi2022(caprettone,falanghina) €18,00
 COLLINE DEL SOLE/falanghina 2022/(falanghina Beneventano100%) €18,00
 COLLINE DEL SOLE/falanghina 2022/(falanghina Irpinia 100%) €20,00
 COLLINE DEL SOLE/fiano/2022(fiano di Avellino) €20,00
-CANTINE TOMMASONE/biancolella/2022(biancolella 100%)       €22,00
-CANTINE CAGGIANO/Bechar/2021(fiano di Avellino 100%)       €25,00
 RADICI VIVE/fiano/2022(fiano)                           €18,00
 RADICI VIVE/greco/2022(greco)                          €18,00
 MARISA CUOMO DOC /Fiorduva/2015 (fenile,ginestra,ripoli)     €70,00
@@ -26,6 +24,7 @@ MARCO FELLUGA/pinot grigio/2022                           €20,00
 MARCO FELLUGA/sauvignon blanc/2022                        €20,00
 MARCO FELLUGA/ribolla gialla/2022                         €20,00
 PICO MACCARIO /dolcevita/2021(moscato d'asti)100%     €18,00
+Elena Walch/gewurztraminer/2022 €21,00
 CAVIT TRENTINO/ gewurztraminer/2021(gewurztraminer 100%)   €23,00
 CA'VIOLA/Clem/riesling (riesling 100%)2020            €30,00
 RICOSSA/Roero arneis/2021(arneis 100%) €18,00
@@ -35,18 +34,17 @@ DUCA DI SALAPARUTA/lavico/2022(carricante100%)    €21,00
 Vino della casa 75 cl € 10,00
 Vino della casa (375ml) €6,00
 Vini Rose
-SAN SALVATORE/Vetere/2022(aglianico 100%)          €30,00
-SAN SALVATORE/Vetere/2022(aglianico 100%) Magnum    €50,00
 RADICI VIVE/Rosa/2022(piedirosso,aglianico)        €18,00
 MASI/ROSA dei MASI/2022 (refosco 100%)             €20,00
+San Salvatore/Vetere/(aglianico 100%)             €30,00
 Vini Rossi
 RADICI VIVE 891/piedirosso/2022 (piedirosso 100%)    €18,00
 COLLINE DEL SOLE/aglianico/2019(aglianico Irpinia100%) €22,00
 SAN SALVATORE /aglianico/2022(aglianico Cilento)   €28,00
-RADICI VIVE 891/ Blend Storico/2020 (piedirosso,aglianico,primitivo) €22,00
+RADICI VIVE 891/ Blend Storico/2020 (piedirosso,aglianico,primitivo) €23,00
 SALVATORE MOLETTIERI/Taurasi vigna cinque querce/2014(aglianico 100%) €62,00
 KETTMEIR/pinot nero/2020(pinot nero100%)                   €30,00
-FRANCIS FORD COPPOLA/Diamond collection red Label/2019(California zinfandel)€40,00
+FRANCIS FORD COPPOLA/Diamond zinfandel/2019(California zinfandel)€40,00
 MELINI/Chianti/2019(sangiovese) €23,00
 MELINI/Brunello di Montalcino/2011(sangiovese)  €60,00
 COSTERS del PRIORAT/Petit Pissares/2019(garnacha tinta-samsò) € 35,00
@@ -102,6 +100,7 @@ Negroni sbagliato(Campari,Vermouth,spumante) €8,00
 Tanqueray London dry Gin *serviti con fever-tree mediterranea €8,00  
 Gin Mare  *serviti con fever-tree mediterranea €8,00
 Wodka MOSKOVSKAYA  €7,00
+Rum Diplomatico €8,00
 Jose Cuervo Especial Tequila € 6,00 
 Whiskey Jack Daniel (USA) €6,00
 Whisky Jameson (Irish whisky) €6,00
