@@ -27,6 +27,7 @@ setTimeout(() => {
         "Champagne & Spumanti",
         "Bar & Aperitivi",
         "Vini a Calice",
+        "Vini passiti - muffati e liquorosi",
       ];
       const words = xhttp.responseText;
 
