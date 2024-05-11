@@ -4,7 +4,7 @@ BOIZEL/reserve brut/(chardonnay,pinot noir,pinot meunieur) € 65,00
 BOIZEL/rosè brut/(chardonnay,pinot noir,pinot meunieur) €85,00
 FAINEL e FILS/Agapane/brut blanc de noirs  €43,00
 TAITTINGER/ Millesimè Brut 2014/(chardonnay,pinot noir,pinot meunieur) €90,00
-FERRARI/Maximum /
+FERRARI/Maximum /blanc de blancs €32,00
 MACCARIO/Piemonte rosè brut/2022(barbera) €20,00
 CANEVEL/EXTRA Dry/ il millesimato2021/(glera) €22,00
 ASTRONI/Astro/(falanghina) campi flegrei €18,00
@@ -14,28 +14,26 @@ MAJOLINI Franciacorta/brut/    €38,00
 MAJOLINI Franciacorta/Vintage/2018  €35,00
 MAJOLINI Franciacota/rosè brut/  €44,00
 Vini Bianchi
-ASTRONI/Cratere bianco/lacryma christi 2022(caprettone,falanghina) €18,00
+ASTRONI/Cratere bianco/lacryma christi 2023(caprettone,falanghina) €18,00
+ASTRONI/Colle imperatrice/falanghina 2023 €20,00
 ASTRONI/Cru Strione/2017(falanghina)   €30,00
-RADICI VIVE/fiano/2022(fiano)                           €18,00
+VILLA RAIANO/falanghina/2022 €18,00
+VILLA RAIANO/greco di Tufo/2022 €22,00
 VILLA RAIANO/fiano di Avellino/(fiano di Avellino 100%)  €22,00
-RADICI VIVE/greco/2022(greco)                          €18,00
-MARISA CUOMO DOC /Fiorduva/2015 (fenile,ginestra,ripoli)     €70,00
-MARISA CUOMO DOC/Furore bianco/2022(falanghina,biancolella)  €35,00
-ASTRONI DOCG/vitis aminea/2021(greco di Tufo 100%)         €20,00
+CANTINE DI MARZO/greco di Tufo Riserva/2021               €25,00
+RADICI VIVE/Madama/2023(falanghina,fiano)                    €19,00
+MARISA CUOMO DOC /Fiorduva/2015 (fenile,ginestra,ripoli)     €75,00
+MARISA CUOMO DOC/Furore bianco/2022(falanghina,biancolella)  €36,00
 LA RONCAIA/ribolla gialla/2022                             €22,00
 MARCO FELLUGA/chardonnay/2022                             €20,00
-LA RONCAIA/Eclisse bianco Venezia Giulia/2022              €27,00   
+LA RONCAIA/Eclisse bianco Venezia Giulia/2022(picolit,sauvignon)  €27,00   
 MARCO FELLUGA/pinot grigio/2022                           €20,00
 MARCO FELLUGA/sauvignon blanc/2022                        €20,00
-MARCO FELLUGA/ribolla gialla/2022                         €20,00
 PICO MACCARIO /dolcevita/2021(moscato d'asti)         €18,00
-ELENA WALCH/gewurztraminer/2022                          €21,00
-CAVIT TRENTINO/ gewurztraminer/2021(gewurztraminer 100%)   €23,00
+ELENA WALCH/gewurztraminer/2022                          €23,00
 CA'VIOLA/Clem/riesling (riesling 100%)2020            €32,00
 TERRUZZI E PUTHOD/vernaccia di S.Gimignano Riserva/(vernaccia)2010       €30,00
 RICOSSA/Roero arneis/2021(arneis 100%) €18,00
-MASI/Lunatio/2022(lugana100%) €20,00
-MASI/Masianco/2022(pinot grigio,verdeca) €20,00
 DUCA DI SALAPARUTA/lavico/2022(carricante100%)    €21,00
 DUCA DI SALAPARUTA/sauvignon blanc/2022  €26,00
 DUCA DI SALAPARUTA/zibibbo/2022   €26,00
@@ -43,12 +41,13 @@ DUCA DI SALAPARUTA/Kados/grillo 2022 €20,00
 Vino della casa 75 cl € 10,00
 Vino della casa (375ml) €6,00
 Vini Rose
-RADICI VIVE/Rosa/2022(piedirosso,aglianico)        €18,00
 San Salvatore/Vetere/(aglianico 100%)             €30,00
 Vini Rossi
 MARTUSCIELLO/Gragnano ottouve/2022       €20,00
 ASTRONI/Gragnano/2023 €18,00
 CASA SETARO /fuocoallegro/2021(piedirosso)     €18,00
+ASTRONI/Colle rotondella/2023 (piedirosso) €21,00
+ASTRONI/Cratere rosso/2023 (piedirosso,aglianico,sciascinoso) €20,00
 ASTRONI/tenuta Camaldoli/2017(piedirosso)  €36,00
 COLLINE DEL SOLE/aglianico/2019(aglianico Irpinia100%) €22,00
 RADICI VIVE 891/ Blend Storico/2020 (piedirosso,aglianico,primitivo) €23,00
@@ -59,8 +58,6 @@ LA RONCAIA/Fusco/merlot 2018                                   €30,00
 LA RONCAIA/cabernet franc/2021                                 €23,00
 LA RONCAIA/refosco/2018                                        €22,00
 BARONE DI VALFORTE/montepulciano d'Abruzzo/2022                €15,00
-ELENA WALCH/pinot nero/2019 € 26,00
-KETTMEIR/pinot nero/2020(pinot nero100%)                   €30,00
 MACCARIO/Lavignone/2022(barbera)   €20,00
 MACCARIO/Tre roveri Nizza/2020    €30,00
 MACCARIO/Barolo Cannubi/2019  €40,00
@@ -71,7 +68,7 @@ CHANZY BOURGOGNE/Les fotunés/2022(pinot noir)  €40,00
 CA'VIOLA/Vilot/2021 (dolcetto) €20,00
 Cà VIOLA/Brichet/2022 (barbera d' Alba)                       €25,00
 Cà VIOLA/Rangone/2022 (nebbiolo)                             €30,00
-Cà VIOLA/Cavit/2019(Barolo)                                  €55,00 
+Cà VIOLA/Caviot/2019(Barolo)                                  €55,00 
 MASI/TOAR Valpolicella superiore/2019 (corvina,rondinella,oseleta) € 25,00
 MASI/Brolo di Campofiorin oro/2019 (corvina,rondinella,oseleta) € 30,00
 MASI/Costasera Amarone Riserva/2017 (corvina,rondinella,molinara) € 65,00
@@ -90,23 +87,34 @@ Vino della Casa rosso 75cl  €10,00
 Vino della casa rosso (375ml) €6,00
 Vini a Calice
 Vino della casa bianco  €5,00
-Prosecco "Canevel"€7,00
-Pinot grigio"Felluga" €6,00
-Greco "ASTRONI"€6,00
-Riesling "Cà Viola"€7,00
-Vernaccia di San Gimignano Riserva "Terruzzi e Puthod"€8,00
+Prosecco Canevel €7,00
+ASTRONI  Astro falanghina "metodo Charmat" € 5,00  
+Majolini Franciacorta Vintage 2018 € 9,00
+Majolini Franciacorta rosè  € 10,00
+Champagne Fainel e Fils Agapane B.D.B € 12,00  
+Felluga pinot grigio € 6,00
+Astroni lacryma christi bianco € 6,00
+CA VIOLA riesling € 7,00
+ASTRONI falanghina colle rotondella € 5,00
+DUCA DI SALAPARUTA zibibbo € 6,50
 Vino della casa rosso €5,00
-Valpolicella superiore TOAR "MASI"€7,00
-Storico "RadiciVive" €7,00
-Taurasi"il vino e la luna" €10,00
-Amarone riserva"Masi"€16,00
-Champagne BOIZEL brut €20,00
+LA RONCAIA merlot  € 8,00
+MACCARIO Barbera D'Asti  € 5,00
+ASTRONI lacryma chrisi rosso € 5,00
+CAPARZO Brunello di Montalcino € 12,50
+RADICIVIVE Storico "piedirosso,aglianico,primitivo"   €7,00
+MASI Brolo di  Campofiorin oro € 8,00
+Florio passito liquoroso di Pantelleria Zighidì €6,00
+FLORIO Ambar moscato €4,00
+Gran Tokaji vendemmia tardiva 2021 € 5,00
+Grand Tokaji Aszù 6 puttonyos 2013 € 16,00
 Bar & Aperitivi
 Coca-cola/Coca-cola zero €3,00
 Fanta €3,00
-Sprite €3,00
+Sprite  €3,00
 Birra Stella Artois spina 0,40cl €6,00
 Birra Stella Artois spina 0,20cl €4,00
+Birra Leffe rossa spina 0,33cl € 8,00 
 Peroni Gran riserva rossa €5,00 
 Birra Nastro Azzurro 62cl €5,00
 Birra Peroni Capri 33cl €4,00
@@ -117,6 +125,8 @@ Tourtel analcolica 33cl €4,00
 Aperol Spritz €8,00
 Campari Spritz €8,00
 Limoncello Spritz €8,00
+Hugo spritz €8,00
+Spritz Analcolico € 8,00
 Negroni (Gin,Vermouth,Campari) €10,00
 Negroni sbagliato(Campari,Vermouth,spumante) €10,00
 Tanqueray London dry Gin *serviti con fever-tree mediterranea €10,00  
@@ -126,9 +136,7 @@ Rum Diplomatico €8,00
 Whiskey Jack Daniel (USA) €6,00
 Scotch Whisky Johnnie Walker Red Label(Scozia) € 6,00
 Vini passiti - muffati e liquorosi
-Marca /testo corsivo/ testo normale €prezzo
-Marca /testo corsivo/ testo normale €prezzo
-Marca /testo corsivo/ testo normale €prezzo
-Marca /testo corsivo/ testo normale €prezzo
-Marca /testo corsivo/ testo normale €prezzo
-Marca /testo corsivo/ testo normale €prezzo
+FLORIO /Zighidi passito pantelleria/2020  € 23,00
+FLORIO /Ambar passito moscato/2020 € 16,00
+Grand Tocaji /Aszù 6 puttonyos/2013 0,5 L € 65,00
+Grand Tocaji /Late harvest/2021 0,5 L   € 18,00
