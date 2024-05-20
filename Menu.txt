@@ -3,21 +3,21 @@ Fior di latte alla brace con prosciutto crudo di Parma|Grilled local mozzarella 
 Frittura all'italiana | Mixed italian fried food (potatoes crocchè, mozzarella fried, rice balls, aubergines fried) *11 12 14 7 15 €15,00  
 Misto di verdure| Mixed vegetables *6 12 15  €12,00
 Calamaretti e zucchini fritti|Fried squids and zucchini*12 15 1 €15,00
-Carciofi dorati e fritti|Fried artichokes*12 15  €8,00
+Fiori di zucca ripieni di ricotta|Flowers pumpkins stuffed with ricotta cheese *12 15 11 €8,00
 Impepata di cozze|Peppered mussels*1 €12,00
-Fiori di zucca ripieni|Stuffed pumpkin flowers*12 15 11 €8,00
+Alici marinate|Marinated anchovies *10 €8,00
 PRIMI
 Linguine con astice|Linguine pasta with lobster and cherry tomatoes  *12 15 13   €25,00
 Risotto alla pescatora| Risotto with seafood (sqids, tomatosauce, clams, mussels, shrimps) *15 12 1 13 €20,00
-Spaghettone con zucchini fritti |Spaghettone pasta with fried zucchini *12 15 11 € 12,00
+Spaghettone con zucchini,vongole e fiori di zucca |Spaghettone pasta with zucchini,clams and flowers pumpkin *12 15 11 € 16,00
 Ravioli alla caprese |Homemade ravioli stuffed with caciottacheese, mozzarella and majoran covered with cherry tomatoes*15 12 14 11 €12,00
 Gnocchi alla sorrentina|Potatoes gnocchi with tomato sauce,mozzarella cheese and basil*12 15 11 €12,00
-Scialatielli carciofi e salsiccia|Homemadepasta with artichokes,sausage and tomato sauce*12 15 €12,00  
+Scialatielli melanzane e salsiccia|Homemadepasta with aubergines,sausage and tomato sauce*12 15 €12,00  
 SECONDI
 Misto di pesce alla brace(gamberi,calamari,salmone,filetto di spigola) |Mixed grilled fish (prawns, shrimps, squid, seabass,salmon) *10 6 13 1 12 15  €25,00   
 Trancio di salmone al forno con arancia e timo|Baked salmon with orange and thyme *10 €15,00 
 Frittura di gamberi e calamari| Fried squids and shrimps *12 15 13   €18,00
-Alici fritte|Fried anchovies*10 12 15 €12,00
+Trancio di pesce spada alla brace|Grilled sward fish*10  €18,00
 Tagliata di entrecote alla brace con rucola,pomodorini e scaglie di parmigiano|Grilled entrecote steak with roket salad,cherry tomatoes and parmesan flakes*6 11 €22,00     
 CONTORNI
 Insalata verde | Green salad *6 €4,00
@@ -31,8 +31,7 @@ Pizza Margherita: pomodoro, mozzarella e basilico | Tomato sauce mozzarella and 
 Pizza Marinara: olio, pomodoro, aglio e origano | Tomato sauce, basil, origano, garlic *15 12  €6,00
 Pizza con broccoli e salsiccia |broccoli,sausage and mozzarella cheese *12 15 11 €10,00   
 Pizza Diavola: pomodoro, mozzarella e salame piccante | Tomato sauce, mozzarella and spicy salami *15 12 11 €10,00
-Pizza Pancetta e cipolla | Mozzarella, bacon and onions *15 11  €10,00 
-Pizza con parmigiana di melanzane: mozzarella, pomodoro e melanzane a fette | Tomato sauce and baked parmigiana *15 12 11  €13,00 
+Pizza Pancetta e cipolla | Mozzarella, bacon and onions *15 11  €10,00  
 Pizza Capricciosa: mozzarella, pomodoro, funghi, olive, salsiccia e prosciutto cotto | Tomato sauce, mozzarella, aubergines, sausage, olives, mushrooms and ham *15 12 11 €13,00
 Pizza con pomodorini,rucola, crudo e scaglie | Mozzarella, cherry tomatoes,roket salad, ham and parmesan cheese *15 12 11  €13,00 
 Pizza quattro formaggi: fior di latte,gorgonzola,taleggio,mozzarella affumicata | Mozzarella,gorgonzola,smoked cheese,ricotta cheese,taleggio cheese *15 11 12  €12,00 
@@ -41,13 +40,16 @@ Pizza ortolana: mozzarella e verdure miste (grigliate e in padella)|mozzarella a
 Focaccia caprese  : mozzarella, pomodori di Sorrento, basilico,origano | Sorrento tomatoes , mozzarella, basil, origano *15 12 11   €13,00
 Specialità del pizzaiolo
 Pizza zucchini fritti e provolone: fior di latte, zucchini fritti e provolone|Mozzarella, zucchini fried and provolone cheese *11 12 15 €13,00
+Pizza con parmigiana di melanzane:mozzarella,pomodoro,melanzane fritte|Tomato sauce and baked parmigiana*12 15 11 €13,00
+Pizza con bresaola pomodorini e funghi champignons:mozzarella,pomodorini e funghi champignons|cherry tomatoes ,mushrooms and bresaola*12 15 11 €13,00
 Pizza scarola, caciotta e noci: fior di latte, noci e scarola stufata con oilve e uvetta passa | Mozzarella, escarole salad, caciotta cheese and nuts *11 12 15 5 €13,00
 Pizza gorgonzola e radicchio:fior di latte,gorgonzola e radicchio|mozzarella,radicchio and gorgonzola*11 12 15 €13,00
 DOLCI
-Tiramisù|Tiramisù *12 15 11 7 5 14 €6,00
-Torta della nonna|Tart with cream and cherries*12 15 7 5 14 11 €6,00
-Torta di mele|Apple tart with cream *15 12 7 5 14 €6,00
-Profiteroles al cioccolato e panna|Profiteroles stuffed with cream covered with chocolate sauce*12 15 14 11 7 5 €6,00 
+Caprese al cioccolato con gelato alla vaniglia|Chocolate and walnuts cake with vanilla ice cream *15 12 7 5 14 €7,00
+Tiramisù|Tiramisù *11 12 15 7 5 €6,00
+Babà al rhum |Rum Babà *12 15 € 6,00 
+Torta della nonna|Tart with cherries and cream*12 15 11 5 7 14 €6,00
+Profiteroles al limone|Profiteroles stuffed with cream covered with lemon sauce*12 15 14 11 7 5 €6,00 
 Tartufo nero|Chocolate and cream Ice cream*11 12 15 €6,00
 Tartufo bianco|Vanilla and coffee Ice cream * 11 12 15  €6,00
 
