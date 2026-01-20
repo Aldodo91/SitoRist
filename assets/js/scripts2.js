@@ -6,10 +6,10 @@ const makeItStrong = (p) => {
   }
   const textBetweenSlashes = p.substring(
     firstSlashIndex + 1,
-    p.indexOf("/", firstSlashIndex + 1)
+    p.indexOf("/", firstSlashIndex + 1),
   );
   const textBeforeFirstSlash = p.substring(0, firstSlashIndex);
-  console.log(textBeforeFirstSlash, textBetweenSlashes);
+  // console.log(textBeforeFirstSlash, textBetweenSlashes);
   const restOfString = p.substring(lastSlashIndex + 1, p.length);
 
   return `<strong>${textBeforeFirstSlash}</strong> <i>${textBetweenSlashes}</i> ${restOfString}`;

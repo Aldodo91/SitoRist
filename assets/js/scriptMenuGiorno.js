@@ -8,6 +8,15 @@ fetch("./PiattiDelGiorno.txt")
     return response.text();
   })
   .then((text) => {
+    if (text.trim() == "PIATTI DEL GIORNO") {
+      setTimeout(() => {
+        document.getElementById("btnMenu").click();
+      }, 500);
+    } else {
+      setTimeout(() => {
+        document.getElementById("buttonPiattiGiorno").click();
+      }, 500);
+    }
     const categories = ["PIATTI DEL GIORNO"];
 
     text.split(/\r?\n/).forEach((row) => {
@@ -89,7 +98,3 @@ fetch("./PiattiDelGiorno.txt")
   .catch((error) => {
     console.error(error);
   });
-
-setTimeout(() => {
-  document.getElementById("buttonPiattiGiorno").click();
-}, 500);
