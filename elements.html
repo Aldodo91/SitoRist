@@ -2,6 +2,12 @@
 <html>
   <head>
     <title>Menu</title>
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -52,92 +58,86 @@
         <section class="wrapper style5">
           <div class="inner">
             <section>
-              <h2 class="coseMenu">Menù</h2>
-              <a href="#vini" class="coseMenu button secondary">Lista Vini</a>
               <h5 style="margin: 10px">Coperto € 2,50</h5>
-              <!-- <a href="bar.html" class="coseMenu button secondary">Wine Bar</a> -->
-              <div class="table-wrapper">
-                <table id="menuC">
-                  <tbody id="menuCibo"></tbody>
-                </table>
-              </div>
-            </section>
 
-            <section class="wrapper style4" style="font-weight: 700">
-              Allergeni
-            </section>
-            <div class="allergeni">
-              <center class="allergene">
-                <img src="images/allergeni/1.png" width="20px" />
-                <div class="allergeneDetail">1.Molluschi</div>
-              </center>
-              <div class="allergene">
-                <img src="images/allergeni/2.png" width="20px" />
-                <div class="allergeneDetail">2.Lupini</div>
-              </div>
-              <div class="allergene">
-                <img src="images/allergeni/3.png" width="20px" />
-                <div class="allergeneDetail">3.Sedano</div>
-              </div>
-              <div class="allergene">
-                <img src="images/allergeni/4.png" width="20px" />
-                <div class="allergeneDetail">4.Senape</div>
-              </div>
-              <center class="allergene">
-                <img src="images/allergeni/5.png" width="20px" />
-                <div class="allergeneDetail">5.Frutta a guscio</div>
-              </center>
-              <center class="allergene">
-                <img src="images/allergeni/6.png" width="20px" />
-                <div class="allergeneDetail">6.Anidride solforosa</div>
-              </center>
-              <div class="allergene">
-                <img src="images/allergeni/7.png" width="20px" />
-                <div class="allergeneDetail">7.Soia</div>
-              </div>
-              <div class="allergene">
-                <img src="images/allergeni/8.png" width="20px" />
-                <div class="allergeneDetail">8.Arachidi</div>
-              </div>
-              <center class="allergene">
-                <img src="images/allergeni/9.png" width="20px" />
-                <div class="allergeneDetail">9.Prodotto surgelato</div>
-              </center>
-              <div class="allergene">
-                <img src="images/allergeni/10.png" width="20px" />
-                <div class="allergeneDetail">10.Pesce</div>
-              </div>
-              <div class="allergene">
-                <img src="images/allergeni/11.png" width="20px" />
-                <div class="allergeneDetail">11.Latte</div>
-              </div>
-              <div class="allergene">
-                <img src="images/allergeni/12.png" width="20px" />
-                <div class="allergeneDetail">12.Cereali</div>
-              </div>
-              <div class="allergene">
-                <img src="images/allergeni/13.png" width="20px" />
-                <div class="allergeneDetail">13.Crostacei</div>
-              </div>
-              <div class="allergene">
-                <img src="images/allergeni/14.png" width="20px" />
-                <div class="allergeneDetail">14.Uova</div>
-              </div>
-              <div class="allergene">
-                <img src="images/allergeni/15.png" width="20px" />
-                <div class="allergeneDetail">15.Glutine</div>
-              </div>
-            </div>
-            <div style="height: 100px"></div>
-            <section class="wrapper style5" id="vini">
-              <h2 style="padding-left: 10px">Lista Vini</h2>
-              <div class="table-wrapper">
-                <table>
-                  <tbody id="menuVini"></tbody>
-                </table>
+              <div class="container">
+                <button
+                  id="buttonPiattiGiorno"
+                  type="button"
+                  class="btn btn-info btnCollapse"
+                  data-toggle="collapse"
+                  data-target="#PiattiGiorno"
+                >
+                  Piatti del giorno
+                </button>
+                <div id="PiattiGiorno" class="collapse">
+                  <div class="table-wrapper">
+                    <table id="menuG">
+                      <tbody id="menuCiboG"></tbody>
+                    </table>
+                  </div>
+                </div>
               </div>
             </section>
+          </div>
 
+          <div class="inner">
+            <section>
+              <div class="container">
+                <button
+                  type="button"
+                  class="btn btn-info btnCollapse"
+                  data-toggle="collapse"
+                  data-target="#FullMenu"
+                >
+                  Menu
+                </button>
+                <div id="FullMenu" class="collapse">
+                  <div class="table-wrapper">
+                    <table id="menuG">
+                      <tbody id="menuCibo"></tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+
+          <div class="inner">
+            <section>
+              <div class="container">
+                <button
+                  type="button"
+                  class="btn btn-info btnCollapse"
+                  data-toggle="collapse"
+                  data-target="#ListaVini"
+                >
+                  Lista Vini
+                </button>
+                <div id="ListaVini" class="collapse">
+                  <div class="table-wrapper">
+                    <table id="menuG">
+                      <tbody id="menuVini"></tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+
+          <div class="inner">
+            <section>
+              <div style="text-align: center">
+                <img
+                  src="images/allergeni/allergeniFull.png"
+                  alt="allergeniFull.png"
+                  style="max-width: calc(100% -10px); height: auto"
+                />
+              </div>
+            </section>
+          </div>
+
+          <div class="inner">
             <section>
               <h4>Food blogger?</h4>
               <p>
@@ -307,8 +307,6 @@
           </div>
         </section>
       </article>
-
-      <!-- Footer -->
       <footer id="footer">
         <ul class="icons">
           <li>
@@ -353,7 +351,7 @@
           </li>
         </ul>
         <ul class="copyright">
-          <li>&copy; Ristorante da Francesco</li>
+          <li>© Ristorante da Francesco</li>
           <li>Design: <a href="https://github.com/Aldodo91">Aldo</a></li>
         </ul>
       </footer>
@@ -367,6 +365,7 @@
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
+    <script src="assets/js/scriptMenuGiorno.js"></script>
     <script src="assets/js/scripts.js"></script>
     <script src="assets/js/scripts2.js"></script>
   </body>

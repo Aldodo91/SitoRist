@@ -16,7 +16,7 @@ const makeItStrong = (p) => {
 };
 setTimeout(() => {
   var xhttp = new XMLHttpRequest();
-  var tbody = document.getElementById("menuVini");
+  var tbodymenuVini = document.getElementById("menuVini");
 
   xhttp.onreadystatechange = function () {
     if (this.readyState == 4 && this.status == 200) {
@@ -50,7 +50,7 @@ setTimeout(() => {
             thh2.className += "linepre";
             trh.appendChild(thh1);
             trh.appendChild(thh2);
-            tbody.appendChild(trh);
+            menuVini.appendChild(trh);
             return;
           } else if (!categories.includes(p) && i == 0) {
             // voce di menu
@@ -64,7 +64,7 @@ setTimeout(() => {
           if (tdm !== "") {
             tr.appendChild(tdm);
             tr.appendChild(tdp);
-            tbody.appendChild(tr);
+            menuVini.appendChild(tr);
           }
         });
       });

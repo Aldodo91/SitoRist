@@ -1,6 +1,6 @@
-const tbodymenuCibo = document.getElementById("menuCibo");
+const tbodymenuCiboG = document.getElementById("menuCiboG");
 
-fetch("./Menu.txt")
+fetch("./PiattiDelGiorno.txt")
   .then((response) => {
     if (!response.ok) {
       throw new Error("Errore nel caricamento del file");
@@ -8,15 +8,7 @@ fetch("./Menu.txt")
     return response.text();
   })
   .then((text) => {
-    const categories = [
-      "ANTIPASTI",
-      "PRIMI",
-      "SECONDI",
-      "CONTORNI",
-      "PIZZE",
-      "Specialità del pizzaiolo",
-      "DOLCI",
-    ];
+    const categories = ["PIATTI DEL GIORNO"];
 
     text.split(/\r?\n/).forEach((row) => {
       if (row === "") return;
@@ -39,7 +31,7 @@ fetch("./Menu.txt")
 
           trh.appendChild(thh1);
           trh.appendChild(thh2);
-          tbodymenuCibo.appendChild(trh);
+          tbodymenuCiboG.appendChild(trh);
           return;
         }
 
@@ -90,10 +82,14 @@ fetch("./Menu.txt")
       if (tdm.textContent !== "") {
         tr.appendChild(tdm);
         tr.appendChild(tdp);
-        tbodymenuCibo.appendChild(tr);
+        tbodymenuCiboG.appendChild(tr);
       }
     });
   })
   .catch((error) => {
     console.error(error);
   });
+
+setTimeout(() => {
+  document.getElementById("buttonPiattiGiorno").click();
+}, 500);

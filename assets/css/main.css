@@ -4290,3 +4290,31 @@ body.is-mobile.landing #footer {
     margin: 0px 10px 20px 15px;
   }
 }
+
+.btnCollapse {
+  background-color: #ffffff;
+  color: #333;
+  border: 2px solid #17b2a6;
+  padding: 10px 20px;
+  font-size: 15px;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.btnCollapse:hover {
+  background-color: #fdfdfd;
+  border-color: #047b72;
+  outline: none;
+}
+
+.btnCollapse:focus {
+  outline: none;
+  border-color: #17b2a6;
+}
+
+.btnCollapse:active {
+  /* background-color: #eee; */
+}
